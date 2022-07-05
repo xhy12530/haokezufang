@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3502422 */
+  src: url('iconfont.woff2?t=1657022061116') format('woff2'),
+       url('iconfont.woff?t=1657022061116') format('woff'),
+       url('iconfont.ttf?t=1657022061116') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-geren:before {
+  content: "\e7a3";
+}
+
+.icon-shoucang:before {
+  content: "\e666";
+}
+
+.icon-shouye:before {
+  content: "\e612";
+}
+
+.icon-fangchanfangzi:before {
+  content: "\e604";
+}
+
+.icon-dituzhaofang:before {
+  content: "\e603";
+}
+
+.icon-kefu:before {
+  content: "\e625";
+}
+
+.icon-shoufangliangfang:before {
+  content: "\e63c";
+}
+
+.icon-fangzi:before {
+  content: "\e8ff";
+}
+
+.icon-pengyou:before {
+  content: "\e61a";
+}
+
+.icon-bofangjilu:before {
+  content: "\e8ad";
+}
+
+.icon-ditu:before {
+  content: "\e8ae";
+}
+
+.icon-namecard:before {
+  content: "\e759";
+}
+
+.icon-zixun:before {
+  content: "\e90d";
+}
+
+.icon-chazhao:before {
+  content: "\e656";
+}
+
